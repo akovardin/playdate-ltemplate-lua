@@ -1,0 +1,5 @@
+name=luatemplate
+author=Artem Kovardin
+description=Sprite example code.
+bundleID=ru.kodikapusta.luatemplate
+imagePath=system/
