@@ -1,0 +1,12 @@
+{
+  // "playdate.source": "source",
+  // "playdate.output": "output.pdx",
+  // // Optionally set sdkPath if not PLAYDATE_SDK_PATH is configured.
+  // "playdate.sdkPath": "/Users/artem/Developer/PlaydateSDK",
+  "Lua.runtime.nonstandardSymbol": [
+    "+=",
+    "-=",
+    "*=",
+    "/="
+  ]
+}
